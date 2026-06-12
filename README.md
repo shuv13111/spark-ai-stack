@@ -1,4 +1,4 @@
-# 🔥 spark-ai-stack
+# spark-ai-stack
 
 My personal local AI setup running on an NVIDIA DGX Spark. Gemma 4 as the brain, n8n as the automation layer — fully self-hosted, no API keys, no data leaving the box.
 
